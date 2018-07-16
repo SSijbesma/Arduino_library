@@ -12,10 +12,10 @@ MCP3551	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-getCode	  KEYWORD2
+getCode	KEYWORD2
 byteCode	KEYWORD2
-getOVH    KEYWORD2
-getOVL    KEYWORD2
+getOVH	KEYWORD2
+getOVL	KEYWORD2
 
 
 #######################################
